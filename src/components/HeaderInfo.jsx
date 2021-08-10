@@ -9,7 +9,7 @@ export default function HeaderInfo() {
             <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
             Whois Onlajn Hakaton
             </h2>
-            <p className="mt-3 text-2xl text-gray-500 sm:mt-4">
+            <p className="mt-3 text-xl text-gray-500 md:text-2xl sm:mt-4">
                 Takmiči se i izradi aplikaciju koja nudi odgovor o nacionalnim ali i svim drugim domenima na svetu.
             </p>
           </div>
