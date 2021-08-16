@@ -6,58 +6,58 @@
     "date": "25. и 26. септембар"
   },
   "headerInfo": {
-    "title": "Whois Onlajn Hakaton",
-    "subtitle": "Takmiči se i izradi aplikaciju koja nudi odgovor o nacionalnim ali i svim drugim domenima na svetu.",
-    "hours": "Sati",
-    "teams": "Timova",
-    "teamMembers": "Članova po timu"
+    "title": "Whois Онлајн Хакатон",
+    "subtitle": "Такмичи се и изради апликацију која нуди одговор о националним, али и свим другим доменима на свету.",
+    "hours": "Сати",
+    "teams": "Тимова",
+    "teamMembers": "Чланова по тиму"
   },
   "generalInfo": {
-    "title": "Whois Onlajn Hakaton",
-    "subtitle": "Takmiči se i izradi aplikaciju koja nudi odgovor o nacionalnim ali i svim drugim domenima na svetu. 25 i 26. septembar - Prijavite se do 19. Septembra u 23:59h.",
-    "competition": "Takmičenje",
-    "competitionText": "Ekipe imaju tačno 48 sati za izradu aplikacije. Predstavljanje rešenja će biti 27. septembra u 11 časova.",
-    "teams": "Ekipe",
-    "teamsText": "Od svih prijavljenih ekipa ćemo izabrati 10 timova sa do pet članova. Odluku o izboru takmičarskih ekipa ćemo objaviti 22. septembra.",
-    "tech": "Tehnologija",
-    "techText": "Po izboru takmičara."
+    "title": "Whois Онлајн Хакатон",
+    "subtitle": "Такмичи се и изради апликацију која нуди одговор о националним, али и свим другим доменима на свету. 25 и 26. септембар - Пријавите се до 19. септембра у 23:59 часова.",
+    "competition": "Такмичење",
+    "competitionText": "Екипе имају тачно 48 сати за израду апликације. Представљање решења ће бити  27. септембра у 11 часова.",
+    "teams": "Екипе",
+    "teamsText": "Од свих пријављених екипа изабраћемо 10 тимова са до пет чланова. Одлуку о избору такмичарских екипа ћемо објавити 22. септембра.",
+    "tech": "Технологија",
+    "techText": "По избору такмичара."
   },
   "faq": {
-    "title": "Informacije o takmičenju",
-    "desc1": "Za dodatna pitanja možete se obratiti",
-    "desc2": "našem timu",
-    "faq1": "O Hakatonu",
-    "faq1text": "Hakaton je ekipno takmičenje tokom kojih timovi, u roku od 48 sati, kreiraju aplikaciju na zadatu temu. Događaj će biti organizovan u onlajn formi, pa članovi timova mogu da rade iz udobnosti sopstvenog doma, sarađuju virtuelno ili u prostoru koji njima odgovara. Prva tri tima osvajaju jednu od novčanih nagrada, a za sve učesnika hakatona pripremamo i simbolične nagrade.",
-    "faq2": "Tim",
-    "faq2text": "Na hakatonu učestvuje 10 timova sa do 5 članova. Popunite prijavu i očekujte poziv ako je vaša ekipa jedna od 10 izabranih. Nismo postavili ograničenja - mogu da učestvuju i profesionalci i studenti, svi koji raspolažu sa dovoljno tehničkog znanja i volje da učestvuju na hakatonu.",
-    "faq3": "Tema",
-    "faq3text": "Pravimo aplikaciju koja vrši WHOIS pretrage, sa krajnjim ciljem da ponudi odgovor o svakom slobodnom ili registrovanom nazivu domena bez obzira na domenski prostor, a pre svega o nacionalnim .rs i .срб nazivima domena. Timovi dobijaju uputstva i precizno definisan zadatak na samom početku hakatona, 25. septembra u ponoć.",
-    "faq4": "Tehnologije",
-    "faq4text": "Takmičari sami biraju tehnologije i razvojno okruženje.",
-    "faq5": "Kriterijumi",
-    "faq5text": "Žiri ocenjuje sledeće aspekte rešenja: kompletnost i relevantnost, UI/UX dizajn, kvalitet koda, skalabilnost i prezentaciju rešenja.",
-    "faq6": "Ocenjivanje",
-    "faq6text": "O pobedničkoj ekipi odlučuje tročlani žiri nakon predstavljanja rešenja.",
-    "faq7": "Vreme izrade i resursi",
-    "faq7text": "Takmičarski deo hakatona traje 48 sati. Takmičari sami obezbeđuju opremu potrebnu za rad, organizator obezbeđuje kanale komunikacije za pitanja i praćenje progresa."
+    "title": "Информације о такмичењу",
+    "desc1": "За додатна питања можете се обратити",
+    "desc2": "нашем тиму",
+    "faq1": "О Хакатону",
+    "faq1text": "Хакатон је екипно такмичење током ког тимови у року од 48 сати креирају апликацију на задату тему. Догађај ће бити организован у онлајн форми, па чланови тимова могу да раде из удобности сопственог дома, сарађују виртуелно или у простору који њима одговара. Прва три тима освајају једну од новчаних награда, а за све учесника хакатона припремамо и симболичне награде.",
+    "faq2": "Тим",
+    "faq2text": "На хакатону учествује 10 тимова са до 5 чланова. Попуните пријаву и очекујте позив ако је ваша екипа једна од 10 изабраних. Нисмо поставили ограничења - могу да учествују и професионалци и студенти, сви који располажу са довољно техничког знања и воље да учествују на хакатону. ",
+    "faq3": "Тема",
+    "faq3text": "Правимо апликацију која врши WHOIS претраге, са крајњим циљем да понуди одговор о сваком слободном или регистрованом називу домена без обзира на доменски простор, а пре свега о националним .rs и .срб називима домена. Тимови добијају упутства и прецизно дефинисан задатак на самом почетку хакатона, 25. септембра у поноћ.",
+    "faq4": "Технологије",
+    "faq4text": "Такмичари сами бирају технологије и развојно окружење.",
+    "faq5": "Критеријуми",
+    "faq5text": "Жири оцењује следеће аспекте решења: комплетност и релевантност, UI/UX дизајн, квалитет кода, скалабилност и презентацију решења.",
+    "faq6": "Оцењивање",
+    "faq6text": "О победничкој екипи одлучује трочлани жири након представљања решења.",
+    "faq7": "Време израде и ресурси",
+    "faq7text": "Такмичарски део хакатона траје 48 сати. Такмичари сами обезбеђују опрему потребну за рад, организатор обезбеђује канале комуникације за питања и праћење прогреса."
   },
   "footer": {
-    "copyright": "Sva prava zadržana."
+    "copyright": "Сва права задржана."
   },
   "time": {
-    "days": "dana",
-    "hours": "sati",
-    "seconds": "sekundi",
-    "minutes": "minuta"
+    "days": "дана",
+    "hours": "сати",
+    "seconds": "секунди",
+    "minutes": "минута"
   },
   "prizes": {
-    "title": "Nagrade",
-    "first": "Prva nagrada",
-    "second": "Druga nagrada",
-    "third": "Treća nagrada",
-    "rest": "simbolične nagrade za sve učesnike hakatona"
+    "title": "Награде",
+    "first": "Прва награда",
+    "second": "Друга награда",
+    "third": "Трећа награда",
+    "rest": "симболичне награде за све учеснике хакатона"
   },
   "organizers": {
-    "title": "Organizatori takmičenja"
+    "title": "Организатори такмичења"
   }
 }
