@@ -1,0 +1,63 @@
+{
+  "change-locale": "Ćirilica",
+  "pageTitle": "Who is hakaton",
+  "header": {
+    "cta": "Prjavi Ekipu",
+    "date": "25. i 26. septembar"
+  },
+  "headerInfo": {
+    "title": "Whois Onlajn Hakaton",
+    "subtitle": "Takmiči se i izradi aplikaciju koja nudi odgovor o nacionalnim ali i svim drugim domenima na svetu.",
+    "hours": "Sati",
+    "teams": "Timova",
+    "teamMembers": "Članova po timu"
+  },
+  "generalInfo": {
+    "title": "Whois Onlajn Hakaton",
+    "subtitle": "Takmiči se i izradi aplikaciju koja nudi odgovor o nacionalnim ali i svim drugim domenima na svetu. 25 i 26. septembar - Prijavite se do 19. Septembra u 23:59h.",
+    "competition": "Takmičenje",
+    "competitionText": "Ekipe imaju tačno 48 sati za izradu aplikacije. Predstavljanje rešenja će biti 27. septembra u 11 časova.",
+    "teams": "Ekipe",
+    "teamsText": "Od svih prijavljenih ekipa ćemo izabrati 10 timova sa do pet članova. Odluku o izboru takmičarskih ekipa ćemo objaviti 22. septembra.",
+    "tech": "Tehnologija",
+    "techText": "Po izboru takmičara."
+  },
+  "faq": {
+    "title": "Informacije o takmičenju",
+    "desc1": "Za dodatna pitanja možete se obratiti",
+    "desc2": "našem timu",
+    "faq1": "O Hakatonu",
+    "faq1text": "Hakaton je ekipno takmičenje tokom kojih timovi, u roku od 48 sati, kreiraju aplikaciju na zadatu temu. Događaj će biti organizovan u onlajn formi, pa članovi timova mogu da rade iz udobnosti sopstvenog doma, sarađuju virtuelno ili u prostoru koji njima odgovara. Prva tri tima osvajaju jednu od novčanih nagrada, a za sve učesnika hakatona pripremamo i simbolične nagrade.",
+    "faq2": "Tim",
+    "faq2text": "Na hakatonu učestvuje 10 timova sa do 5 članova. Popunite prijavu i očekujte poziv ako je vaša ekipa jedna od 10 izabranih. Nismo postavili ograničenja - mogu da učestvuju i profesionalci i studenti, svi koji raspolažu sa dovoljno tehničkog znanja i volje da učestvuju na hakatonu.",
+    "faq3": "Tema",
+    "faq3text": "Pravimo aplikaciju koja vrši WHOIS pretrage, sa krajnjim ciljem da ponudi odgovor o svakom slobodnom ili registrovanom nazivu domena bez obzira na domenski prostor, a pre svega o nacionalnim .rs i .срб nazivima domena. Timovi dobijaju uputstva i precizno definisan zadatak na samom početku hakatona, 25. septembra u ponoć.",
+    "faq4": "Tehnologije",
+    "faq4text": "Takmičari sami biraju tehnologije i razvojno okruženje.",
+    "faq5": "Kriterijumi",
+    "faq5text": "Žiri ocenjuje sledeće aspekte rešenja: kompletnost i relevantnost, UI/UX dizajn, kvalitet koda, skalabilnost i prezentaciju rešenja.",
+    "faq6": "Ocenjivanje",
+    "faq6text": "O pobedničkoj ekipi odlučuje tročlani žiri nakon predstavljanja rešenja.",
+    "faq7": "Vreme izrade i resursi",
+    "faq7text": "Takmičarski deo hakatona traje 48 sati. Takmičari sami obezbeđuju opremu potrebnu za rad, organizator obezbeđuje kanale komunikacije za pitanja i praćenje progresa."
+  },
+  "footer": {
+    "copyright": "Sva prava zadržana."
+  },
+  "time": {
+    "days": "dana",
+    "hours": "sati",
+    "seconds": "sekundi",
+    "minutes": "minuta"
+  },
+  "prizes": {
+    "title": "Nagrade",
+    "first": "Prva nagrada",
+    "second": "Druga nagrada",
+    "third": "Treća nagrada",
+    "rest": "simbolične nagrade za sve učesnike hakatona"
+  },
+  "organizers": {
+    "title": "Organizatori takmičenja"
+  }
+}
