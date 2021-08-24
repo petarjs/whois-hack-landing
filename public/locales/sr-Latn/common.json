@@ -43,7 +43,10 @@
     "faq7text": "Takmičarski deo hakatona traje 48 sati. Takmičari sami obezbeđuju opremu potrebnu za rad, organizator obezbeđuje kanale komunikacije za pitanja i praćenje progresa."
   },
   "footer": {
-    "copyright": "Sva prava zadržana."
+    "copyright": "Sva prava zadržana.",
+    "privacy": "Politika privatnosti",
+    "terms": "Uslovi korišćenja",
+    "cookies": "Politika kolačića"
   },
   "time": {
     "days": "dana",

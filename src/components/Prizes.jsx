@@ -52,7 +52,7 @@ export default function Prizes() {
   return (
     <div className="px-4 py-4 mx-auto mt-12 max-w-7xl sm:px-6 lg:px-8">
       <h3 className="flex items-center space-x-2 text-2xl font-extrabold text-gray-100">
-        <GiftIcon className="w-8 h-8" />
+        <GiftIcon className="w-6 h-6 md:w-8 md:h-8" />
         <span>{t`prizes.title`}</span>
       </h3>
 
@@ -81,7 +81,7 @@ export default function Prizes() {
 
       <div className="flex flex-col items-center justify-center w-full my-5 space-x-2 text-lg text-gray-100 sm:flex-row">
         <div>+ {t`prizes.rest`}</div>
-        <div className="w-5">
+        <div className="hidden w-5 md:block">
           <SparklesIcon />
         </div>
       </div>

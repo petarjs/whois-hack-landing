@@ -56,8 +56,8 @@ export default function FAQ() {
       <div className="px-4 py-16 mx-auto max-w-7xl sm:px-6 lg:py-20 lg:px-8">
         <div className="lg:grid lg:grid-cols-3 lg:gap-8">
           <div>
-            <h2 className="flex items-center space-x-2 text-2xl font-extrabold text-gray-100">
-              <InformationCircleIcon className="w-8 h-8" />
+            <h2 className="flex items-center space-x-2 text-xl font-extrabold text-gray-100 md:text-2xl">
+              <InformationCircleIcon className="w-6 h-6 md:w-8 md:h-8" />
               <span>{t`faq.title`}</span>
             </h2>
             <p className="mt-4 text-lg text-gray-300">

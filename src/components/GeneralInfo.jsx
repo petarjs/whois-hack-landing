@@ -34,7 +34,7 @@ export default function GeneralInfo() {
   return (
     <div className="relative">
       <div className="relative pb-32">
-        <div className="absolute top-0 bottom-0 right-0 hidden overflow-hidden opacity-70 md:block left-1/3">
+        <div className="absolute top-0 bottom-0 right-0 hidden overflow-hidden opacity-70 md:block left-[40%]">
           <Image
             className="object-contain w-full h-full"
             src="/images/world.svg"
@@ -58,7 +58,7 @@ export default function GeneralInfo() {
           <h1 className="text-4xl font-extrabold tracking-tight text-white md:text-5xl lg:text-6xl">
             {t`generalInfo.title`}
           </h1>
-          <p className="max-w-3xl mt-6 text-xl text-gray-300">
+          <p className="max-w-xl mt-6 text-xl text-gray-300">
             {t`generalInfo.subtitle`}
           </p>
         </div>

@@ -1,3 +1,37 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.support-page h1 {
+  font-size: 26px;
+  margin-bottom: 14px;
+  margin-top: 18px;
+  font-weight: bold;
+}
+
+.support-page h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+  margin-top: 14px;
+  font-weight: bold;
+}
+
+.support-page h3 {
+  font-size: 19px;
+  margin-bottom: 10px;
+  margin-top: 14px;
+  font-weight: bold;
+}
+
+.support-page p {
+  margin-bottom: 8px;
+}
+
+.support-page a {
+  text-decoration: underline;
+}
+
+.support-page ul {
+  margin: 15px 0;
+  list-style-type: disc;
+}

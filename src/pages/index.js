@@ -10,8 +10,7 @@ import Time from "src/components/Time";
 import { useTranslation } from "next-i18next";
 import Prizes from "src/components/Prizes";
 import Organizers from "src/components/Organizers";
-
-const siteUrl = "https://whoishack.io";
+import { siteUrl } from "src/constants";
 
 export default function Home() {
   const { t } = useTranslation("common");
