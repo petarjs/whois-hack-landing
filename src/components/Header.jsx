@@ -37,11 +37,23 @@ export default function Header() {
       </div>
       <div className="relative text-center">
         <div className="max-w-[400px] md:max-w-full mb-6 mx-auto">
-          <img src="/images/symbol.svg" alt="" width="563px" height="241px" />
+          <img
+            src="/images/symbol.svg"
+            alt=""
+            className="w-full"
+            width="563px"
+            height="241px"
+          />
         </div>
 
-        <div className="max-w-[320px] md:max-w-full mb-1 md:mb-2 overflow-hidden mx-auto">
-          <img src="/images/whois.svg" alt="" width="563px" height="91px" />
+        <div className="max-w-[320px] md:max-w-[450px] mb-1 md:mb-2 overflow-hidden mx-auto">
+          <img
+            src="/images/whois.svg"
+            alt=""
+            className="w-full"
+            width="563px"
+            height="91px"
+          />
         </div>
 
         <div className="flex items-center justify-center mb-6 space-x-2 text-2xl font-bold tracking-wide text-white">
