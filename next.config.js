@@ -30,6 +30,9 @@ const securityHeaders = [
 module.exports = {
   reactStrictMode: true,
   i18n,
+  images: {
+    disableStaticImages: true,
+  },
 
   async headers() {
     return [
