@@ -1,6 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
 
-import { CheckCircleIcon } from "@heroicons/react/outline";
 import { useTranslation } from "next-i18next";
 import Link from "next/link";
 

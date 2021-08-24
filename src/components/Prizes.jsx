@@ -1,13 +1,5 @@
-import {
-  ClockIcon,
-  GiftIcon,
-  SparklesIcon,
-  StarIcon,
-  UserGroupIcon,
-  UsersIcon,
-} from "@heroicons/react/outline";
+import { GiftIcon, SparklesIcon, StarIcon } from "@heroicons/react/outline";
 import { useTranslation } from "next-i18next";
-import Countdown from "react-countdown";
 
 export default function Prizes() {
   const { t } = useTranslation();

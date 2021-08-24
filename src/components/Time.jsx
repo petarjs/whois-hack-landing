@@ -1,4 +1,3 @@
-import { ClockIcon, UserGroupIcon, UsersIcon } from "@heroicons/react/outline";
 import { useTranslation } from "next-i18next";
 import Countdown from "react-countdown";
 

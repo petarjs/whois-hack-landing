@@ -1,4 +1,4 @@
-/* This example requires Tailwind CSS v2.0+ */
+/* eslint-disable @next/next/no-img-element */
 import {
   ChevronDoubleRightIcon,
   ClockIcon,
@@ -6,7 +6,6 @@ import {
 } from "@heroicons/react/outline";
 import { useTranslation } from "next-i18next";
 import { useRouter } from "next/dist/client/router";
-import Image from "next/image";
 import Link from "next/link";
 
 export default function Header() {
@@ -26,10 +25,9 @@ export default function Header() {
         </a>
       </Link>
       <div className="absolute inset-0 overflow-hidden">
-        <Image
+        <img
           className="object-cover w-full h-full"
           src="/images/bg2.png"
-          layout="fill"
           alt=""
         />
         <div
@@ -39,11 +37,11 @@ export default function Header() {
       </div>
       <div className="relative text-center">
         <div className="max-w-[400px] md:max-w-full mb-6 mx-auto">
-          <Image src="/images/symbol.svg" alt="" width="563px" height="241px" />
+          <img src="/images/symbol.svg" alt="" width="563px" height="241px" />
         </div>
 
         <div className="max-w-[320px] md:max-w-full mb-1 md:mb-2 overflow-hidden mx-auto">
-          <Image src="/images/whois.svg" alt="" width="563px" height="91px" />
+          <img src="/images/whois.svg" alt="" width="563px" height="91px" />
         </div>
 
         <div className="flex items-center justify-center mb-6 space-x-2 text-2xl font-bold tracking-wide text-white">
@@ -55,7 +53,7 @@ export default function Header() {
           href="https://forms.gle/6bmAUJgKp9ztHu8T6"
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center px-6 py-3 mt-4 text-base font-bold tracking-wide text-white uppercase bg-red-600 border border-transparent rounded-lg shadow-sm hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
+          className="relative z-10 inline-flex items-center px-6 py-3 mt-4 text-base font-bold tracking-wide text-white uppercase bg-red-600 border border-transparent rounded-lg shadow-sm hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
         >
           {t`header.cta`}
           <ChevronDoubleRightIcon className="w-5 h-5 ml-1 animate-ping" />

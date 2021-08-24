@@ -1,10 +1,10 @@
+/* eslint-disable @next/next/no-img-element */
 import Head from "next/head";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 
 import Footer from "src/components/Footer";
 import { Trans, useTranslation } from "next-i18next";
 import { siteUrl } from "src/constants";
-import Image from "next/image";
 
 export default function Cookies() {
   const { t } = useTranslation("common", "privacy");
@@ -31,7 +31,7 @@ export default function Cookies() {
 
       <div className="px-4 py-16 mx-auto text-gray-300 max-w-7xl sm:px-6 lg:py-20 lg:px-8">
         <div className="max-w-[200px] mb-6">
-          <Image src="/images/symbol.svg" alt="" width="563px" height="241px" />
+          <img src="/images/symbol.svg" alt="" width="563px" height="241px" />
         </div>
         <div className="support-page">
           <h1>{t`privacy:title`}</h1>

@@ -1,14 +1,10 @@
-/* This example requires Tailwind CSS v2.0+ */
+/* eslint-disable @next/next/no-img-element */
 import {
   CodeIcon,
   LightningBoltIcon,
-  NewspaperIcon,
-  PhoneIcon,
-  SupportIcon,
   UserGroupIcon,
 } from "@heroicons/react/outline";
 import { useTranslation } from "next-i18next";
-import Image from "next/image";
 
 export default function GeneralInfo() {
   const { t } = useTranslation();
@@ -35,19 +31,17 @@ export default function GeneralInfo() {
     <div className="relative">
       <div className="relative pb-32">
         <div className="absolute top-0 bottom-0 right-0 hidden overflow-hidden opacity-70 md:block left-[40%]">
-          <Image
+          <img
             className="object-contain w-full h-full"
             src="/images/world.svg"
-            layout="fill"
             alt=""
           />
         </div>
 
         <div className="block p-4 overflow-hidden md:hidden">
-          <Image
+          <img
             className="object-contain w-full h-full"
             src="/images/world.svg"
-            layout="responsive"
             height="100px"
             width="220px"
             alt=""
